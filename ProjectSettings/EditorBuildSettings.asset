@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CarPathGame - 1.unity
+    guid: a13b910bcdd4d4cdc93834700c15b3e3
+  - enabled: 1
+    path: Assets/Scenes/CarPathGame - 2.unity
+    guid: 08a780a3ae5644559a47cc7a9dc00046
+  - enabled: 1
+    path: Assets/Scenes/CarPathGame - 3.unity
+    guid: 995bd84560ac7440082b19428e6e9c65
   m_configObjects: {}
